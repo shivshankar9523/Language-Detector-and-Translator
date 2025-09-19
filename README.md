@@ -2,13 +2,17 @@
 
 🔑 Project Description
 The application allows users to detect the language of a given text and then translate it into 100+ languages using GoogleTranslator.
+
 It provides multiple input methods (text area + speech-to-text microphone input) and displays results with a modern styled UI.
 
 ⚙️ Main Features
 
 🌍 Language Detection
+
 1 Uses a dataset (language.csv) with text–language mappings.
+
 2 Trains a Naive Bayes model (MultinomialNB) with CountVectorizer to classify text language.
+
 3 Detects the input text’s language in real time.
 
 🌐 Language Translation
