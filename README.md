@@ -49,3 +49,8 @@ It provides multiple input methods (text area + speech-to-text microphone input)
 (Optional) Download the translated text as .txt.
 
 Use Clear All to reset everything.
+
+📬 Contact
+Developer:Shivshankar Kumar
+Email:    kumarshivshankar2389@gmail.com
+Linkedin: https://www.linkedin.com/in/shivshankar-kumar-957166214
